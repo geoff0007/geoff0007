@@ -1,6 +1,6 @@
 Hi, 
 
-I'm geoff.
+I'm Geoff.
 
 I'm interested in mobile computing and currently learning Android Studio, Kotlin, Flutter, Dart and Github.
 
